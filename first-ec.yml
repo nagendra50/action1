@@ -12,5 +12,5 @@ jobs: #can define multiple jobs
         - name: list files #2nd step
           run: ls
 
-        - name: Read file #3rd step.
+        - name: Read file #3rd step..
           run: cat README.md
